@@ -4,5 +4,5 @@ Used **PyTorch** on the **CICIDS2017** dataset to compare shallow and deep neura
 Applied dropout, batch normalization, and optimizer tuning to analyze model performance.
 
 **Technologies:** Python, PyTorch, NumPy, Pandas  
-**Dataset:** CICIDS2017 (Canadian Institute for Cybersecurity)  
+**Dataset:** CICIDS2017   
 **Skills learned:** Neural network training, model evaluation, hyperparameter tuning
